@@ -16,10 +16,27 @@ My self Mohammad, I am having alomst 8 year of experience in Frontend Developmen
 
 
 ##### 2.2. Which are your favorite features of HTML5? How have you used them before?
+In html5 I like Flexbox and Css-Grid. Its really usefull to manage layout. As HTML5 is well support for accessbliity. 
 
 ##### 2.3. Explain the difference between creating a DOM element setting `innerHTML` and using `createElement`.
 
+CreateElemnt :
+Its keep maintained references
+Easy to find exception.
+
+
+InnerHTML:
+No reference its replace the content
+Dificult to find bug.
+Easy to write
+
+
 ##### 2.4. Compare two-way data binding vs one-way data flow.
+2-way binding is something the moment is change model or view it will update both. Angular is good example of 2-Way binding.
+
+1-way binding is something its only one time binding, If you change something in view model won't update. To update model have to write code manully. 
+
+
 
 ##### 2.5. Why is asynchronous programming important in JavaScript?
 
@@ -31,7 +48,7 @@ Given the HTML file **front-end/q3/q3.html**, implement the styling so the page 
 ![Styling](./front-end/q3/images/result.jpg "Styling")
 
 #### Bonus
-- Implement styling rules that consider different screen sizes.
+- Implement styling rules that consider different screen sizes.  #### Done
 
 **Notes:**
 - The footer should stick to the bottom when scrolling.
