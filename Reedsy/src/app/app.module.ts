@@ -8,7 +8,6 @@ import { BookDetailComponent } from './pages/book-detail/book-detail.component';
 import { HeaderComponent } from './components/header/header.component';
 import { UpvoteComponent } from './components/upvote/upvote.component';
 import { HttpClientModule } from '@angular/common/http';
-import { HttpClient } from 'selenium-webdriver/http';
 import { BookService } from './services/book.service';
 
 @NgModule({
