@@ -6,14 +6,15 @@ You can submit all the answers to this assignment in a single repository (or as 
 
 Tell us about one of your commercial projects with Vue.js or AngularJS.
 
-My self Mohammad, I am having alomst 8 year of experience in Frontend Development.
+My self Mohammad, I am having alomst 8 year of experience in Frontend Development. I have worked on Angular, React, Redux, Backbone, Ionic, Phonegap etc.
 
 
 
 ## 2. General
 
 ##### 2.1. What kind of front end projects do you enjoy working on? Why?
-
+I like most of e-commerce and finance domain project and technology I like Javascript. 
+I am familar with React and Angular. 
 
 ##### 2.2. Which are your favorite features of HTML5? How have you used them before?
 In html5 I like Flexbox and Css-Grid. Its really usefull to manage layout. As HTML5 is well support for accessbliity. 
@@ -40,6 +41,8 @@ Easy to write
 
 ##### 2.5. Why is asynchronous programming important in JavaScript?
 
+Asynchronous programming means that the engine runs in an event loop. When a blocking operation is needed, the request is started, and the code keeps running without blocking for the result. When the response is ready, an interrupt is fired, which causes an event handler to be run, where the control flow continues. In this way, a single program thread can handle many concurrent operations.
+
 
 ## 3. Styling
 
@@ -48,7 +51,7 @@ Given the HTML file **front-end/q3/q3.html**, implement the styling so the page 
 ![Styling](./front-end/q3/images/result.jpg "Styling")
 
 #### Bonus
-- Implement styling rules that consider different screen sizes.  #### Done
+- Implement styling rules that consider different screen sizes.  
 
 **Notes:**
 - The footer should stick to the bottom when scrolling.
