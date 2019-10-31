@@ -6,7 +6,7 @@ You can submit all the answers to this assignment in a single repository (or as 
 
 Tell us about one of your commercial projects with Vue.js or AngularJS.
 
-My self Mohammad, I am having alomst 8 year of experience in Frontend Development. I have worked on Angular, React, Redux, Backbone, Ionic, Phonegap etc.
+My self Mohammad, I am having alomst 8 year of experience in Frontend Development. I have worked on Angular, React, Redux, Backbone, Ionic, Phonegap etc...
 
 
 
